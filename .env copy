@@ -1,0 +1,7 @@
+TENANT_ID = <tenant id>
+CLIENT_ID = <client id>
+CLIENT_SECRET = <client secret>
+DEPLOYMENT = <deployment>
+ENDPOINT = <endpoint>
+MODEL_ID = <model id>
+API_VERSION = <api version>

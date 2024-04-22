@@ -1,0 +1,6 @@
+@AiKey.Api_HostAddress = http://localhost:5027
+
+GET {{AiKey.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
